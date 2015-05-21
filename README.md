@@ -18,4 +18,4 @@ Then you will need to instantiate the Page Indicator and include your viewpager:
                 indicator.setViewPager(pager);
 
 
-# TODO: publish to Maven Central.
+## TODO: publish to Maven Central.
