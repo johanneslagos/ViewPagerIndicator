@@ -1,1 +1,1 @@
-include ':app', ':viewpageindicator'
+include ':sample', ':viewpagerindicator_libary'
