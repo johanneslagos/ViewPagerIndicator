@@ -12,7 +12,6 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import no.jlagos.sample.R;
 import no.jlagos.viewpagerindicator.PageIndicator;
 
 
