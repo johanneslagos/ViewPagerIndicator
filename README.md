@@ -15,7 +15,7 @@ library, i.e:
 Then you will need to instantiate the Page Indicator and include your viewpager:
 
       PageIndicator indicator = (PageIndicator)findViewById(R.id.indicator);
-                indicator.setViewPager(pager);
+      indicator.setViewPager(pager);
 
 
 ## TODO: publish to Maven Central.
