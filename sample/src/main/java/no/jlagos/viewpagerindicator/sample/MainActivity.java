@@ -1,4 +1,4 @@
-package no.jlagos.sample;
+package no.jlagos.viewpagerindicator.sample;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
@@ -12,7 +12,8 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import no.jlagos.viewpageindicator.PageIndicator;
+import no.jlagos.sample.R;
+import no.jlagos.viewpagerindicator.PageIndicator;
 
 
 public class MainActivity extends FragmentActivity {

@@ -1,1 +1,1 @@
-include ':sample', ':viewpageindicator'
+include ':sample', ':viewpageindicator_libary'

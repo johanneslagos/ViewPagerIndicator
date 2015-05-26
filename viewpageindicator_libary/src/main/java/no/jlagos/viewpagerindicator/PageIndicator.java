@@ -1,4 +1,4 @@
-package no.jlagos.viewpageindicator;
+package no.jlagos.viewpagerindicator;
 
 import android.content.Context;
 import android.content.res.Resources;
